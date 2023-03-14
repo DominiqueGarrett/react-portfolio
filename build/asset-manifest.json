@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DominiqueGarrett/react-portfolio/static/css/main.c7092913.css",
+    "main.js": "/DominiqueGarrett/react-portfolio/static/js/main.cda4fbe8.js",
+    "static/js/787.a2cb61a6.chunk.js": "/DominiqueGarrett/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Summer_Punch.png": "/DominiqueGarrett/react-portfolio/static/media/Summer_Punch.b42d095e85f9652e6d7d.png",
+    "static/media/Profile_Pic.png": "/DominiqueGarrett/react-portfolio/static/media/Profile_Pic.71b8df216eab246df2f6.png",
+    "static/media/Sweet-Pea-Flowers.png": "/DominiqueGarrett/react-portfolio/static/media/Sweet-Pea-Flowers.1abfb776340456e90bc6.png",
+    "static/media/HomeBrew.png": "/DominiqueGarrett/react-portfolio/static/media/HomeBrew.c70b070451cbcb12aca5.png",
+    "static/media/Twilight_Ristorante.png": "/DominiqueGarrett/react-portfolio/static/media/Twilight_Ristorante.853620aff788e8109c06.png",
+    "static/media/Weather_Dash.png": "/DominiqueGarrett/react-portfolio/static/media/Weather_Dash.fb8dfe9ddd2d1911fd44.png",
+    "static/media/Sphere.png": "/DominiqueGarrett/react-portfolio/static/media/Sphere.aefa2b88c929fcbc322d.png",
+    "static/media/NoteTaker.png": "/DominiqueGarrett/react-portfolio/static/media/NoteTaker.a02f46f0add6517fa071.png",
+    "static/media/DGResume2021.pdf": "/DominiqueGarrett/react-portfolio/static/media/DGResume2021.437b317bf315506c4eae.pdf",
+    "static/media/5330558.jpg": "/DominiqueGarrett/react-portfolio/static/media/5330558.d3b7cb47a0ab0edd83af.jpg",
+    "index.html": "/DominiqueGarrett/react-portfolio/index.html",
+    "main.c7092913.css.map": "/DominiqueGarrett/react-portfolio/static/css/main.c7092913.css.map",
+    "main.cda4fbe8.js.map": "/DominiqueGarrett/react-portfolio/static/js/main.cda4fbe8.js.map",
+    "787.a2cb61a6.chunk.js.map": "/DominiqueGarrett/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7092913.css",
+    "static/js/main.cda4fbe8.js"
+  ]
+}
