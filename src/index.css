@@ -504,7 +504,7 @@ header nav ul li a:hover {
 } */
 
 .column-title {
-  color: #ef208b;
+  color:  #285950;
   font-size: 25px;
   font-weight: bold;
 }
@@ -520,6 +520,7 @@ header nav ul li a:hover {
 .column-text ul li {
   list-style: none;
 }
+
 
 
 /*End resume section*/
