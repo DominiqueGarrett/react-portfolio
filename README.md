@@ -76,7 +76,24 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Screenshots of Application in Use
 
---------------------------- INSERT SCREENSHOTS -------------------------------
+Home Page:
+<img width="1286" alt="Screen Shot 2023-03-13 at 10 42 02 PM" src="https://user-images.githubusercontent.com/114618684/224887630-e311455a-1f23-44f5-925c-0256b6a08a59.png">
+
+About Me:
+<img width="1431" alt="Screen Shot 2023-03-13 at 10 00 11 PM" src="https://user-images.githubusercontent.com/114618684/224887483-8f621b74-2fb2-45ca-bb49-bb40bcb59a05.png">
+
+Portfolio:
+<img width="1435" alt="Screen Shot 2023-03-13 at 10 00 25 PM" src="https://user-images.githubusercontent.com/114618684/224887920-e6b07112-508d-45f3-8ca3-763f64e7aebc.png">
+
+Skills:
+<img width="1434" alt="Screen Shot 2023-03-13 at 10 00 49 PM" src="https://user-images.githubusercontent.com/114618684/224887943-152acae2-1db7-4e2d-9073-b94dbf6f14e7.png">
+
+Contact:
+<img width="1405" alt="Screen Shot 2023-03-13 at 10 00 36 PM" src="https://user-images.githubusercontent.com/114618684/224887954-4bd0146d-f4c4-4b3e-9243-24e25c96a305.png">
+
+Resume:
+<img width="1427" alt="Screen Shot 2023-03-13 at 9 59 35 PM" src="https://user-images.githubusercontent.com/114618684/224887820-5223079a-ed38-4030-9d23-f4876c4ce65a.png">
+
 
 
 ## Technologies
