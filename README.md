@@ -12,8 +12,6 @@ Module 20 Challenge Assignment: React Challenge - React Portfolio
   * [User Story](#user-story)
   * [Acceptance Criteria](#user-story)
   * [Installation](#installation)
-  * [Setup](#setup)
-  * [Usage](#usage)
   * [Screenshots of Application in Use](#screenshots-of-application-in-use)
   * [Technologies](#technologies)
   * [How to Contribute](#how-to-contribute)
@@ -27,8 +25,7 @@ Module 20 Challenge Assignment: React Challenge - React Portfolio
 
 
 ## Description
-
---------------------------- INSERT DESCRIPTION -------------------------------
+A developer portfolio is a website that showcases your best work, personality and talents. It is your best chance to prove your skills, share your enthusiasm about the profession and give your potential employers and clients a glimpse of how awesome it would be to work with you. In this web application I have created an updated professional portfolio to showcase my skills using React.
 
 
 ## User Story
@@ -71,17 +68,10 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Installation
 
---------------------------- INSERT INSTALLATION -------------------------------
-
-
-## Setup
-
---------------------------- INSERT SETUP -------------------------------
-
-        
-## Usage
-
---------------------------- INSERT USAGE -------------------------------
+- Step 1: Clone this repository. you can do this by running ``` git clone git@github.com:DominiqueGarrett/react-portfolio.git``` in your terminal
+- Step 2: Install dependencies by running the ``` npm install ``` command in the command line
+- Step 3: Open your code editor by running the command ``` code . ```
+- step 4: Start the server by running ``` npm start ``` in the terminal
 
 
 ## Screenshots of Application in Use
@@ -90,8 +80,11 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 
 ## Technologies
-
---------------------------- INSERT TECHNOLOGIES -------------------------------
+* [Node.js](https://nodejs.org/en/)
+* [Express.js](https://expressjs.com)
+* [MongoDB](https://www.mongodb.com)
+* [Mongoose](https://mongoosejs.com/docs/)
+* [Javascript](https://developer.mozilla.org/en-US/docs/WebJavaScript)
 
 
   ## How to Contribute
