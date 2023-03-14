@@ -103,6 +103,11 @@ Resume:
 * [MongoDB](https://www.mongodb.com)
 * [Mongoose](https://mongoosejs.com/docs/)
 * [Javascript](https://developer.mozilla.org/en-US/docs/WebJavaScript)
+* [React](https://reactjs.org)
+* [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+* [Webpack & WebpackPwaManifest Plugins](https://www.npmjs.com/package/webpack-pwa-manifest)
+* [Babel](https://babeljs.io)
+
 
 
   ## How to Contribute
